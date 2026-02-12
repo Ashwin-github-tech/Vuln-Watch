@@ -6,12 +6,12 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone https://github.com/Ashwin-github-tech/web-based-vulnerability-monitoring.git
+git clone https://github.com/Ashwin-github-tech/Vuln-Watch.git
 ```
 ```sh
 
 # Step 2: Navigate to the project directory.
-cd web-based-vulnerability-monitoring
+cd Vuln-Watch
 ```
 ```sh
 # Step 3: Install the necessary dependencies.
