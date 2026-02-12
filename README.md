@@ -4,21 +4,21 @@ The only requirement is having Node.js & npm installed - [install with nvm](http
 
 Follow these steps:
 
-```sh
 # Step 1: Clone the repository using the project's Git URL.
+```sh
 git clone https://github.com/Ashwin-github-tech/Vuln-Watch.git
 ```
-```sh
 
 # Step 2: Navigate to the project directory.
+```sh
 cd Vuln-Watch
 ```
-```sh
 # Step 3: Install the necessary dependencies.
+```sh
 npm i
 ```
-```sh
 # Step 4: Start the development server with auto-reloading and an instant preview.
+```sh
 npm run dev
 ```
 
