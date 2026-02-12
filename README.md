@@ -9,7 +9,7 @@ Follow these steps:
 git clone https://github.com/Ashwin-github-tech/Vuln-Watch.git
 ```
 
-# Step 2: Navigate to the project directory.
+# Step 2: Navigate to the project directory.(command below is for linux users only)
 ```sh
 cd Vuln-Watch
 ```
