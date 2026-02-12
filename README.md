@@ -6,14 +6,18 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Ashwin-github-tech/web-based-vulnerability-monitoring.git
+```
+```sh
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
+cd web-based-vulnerability-monitoring
+```
+```sh
 # Step 3: Install the necessary dependencies.
 npm i
-
+```
+```sh
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
